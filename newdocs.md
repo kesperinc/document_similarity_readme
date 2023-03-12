@@ -1,3 +1,6 @@
 ## New Docs
 
 https://towardsdatascience.com/the-best-document-similarity-algorithm-in-2020-a-beginners-guide-a01b9ef8cf05
+
+https://dev.to/thepylot/compare-documents-similarity-using-python-nlp-4odp
+
